@@ -1,4 +1,4 @@
-# Random-Number-Guesser
+# NumGuesser
 <h2>About</h2>
 Random Number Guesser generates a random number and asks the user to guess what the number is. If the user’s guess is higher than the random number, the code should display Too high. If the user’s guess is lower than the random number, the code should display Too low and tell the user that wheather the gussed number is too close or far.
 
